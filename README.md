@@ -18,3 +18,9 @@
 ## 5. Todo リストを実装する
 
 - [chapter05/todo-list](chapter05/todo-list): React で実装した Todo リストのサンプルコード
+
+## 6. パフォーマンス最適化
+
+- [chapter06/01-react-memo](https://github.com/hira777/react-beginners-book/tree/master/chapter06/01-react-memo): React.memo を利用したサンプルコード
+- [chapter06/02-use-callback](https://github.com/hira777/react-beginners-book/tree/master/chapter06/02-use-callback): useCallback と React.memo を利用して、コンポーネントの不要な再描画をスキップしているサンプルコード
+- [chapter06/03-use-memo](https://github.com/hira777/react-beginners-book/tree/master/chapter06/03-use-memo): useMemo を利用したサンプルコード
